@@ -8,10 +8,10 @@
 - 💡 Mi enfoque: Usar datos para apoyar decisiones y mejoras en procesos reales.
 - 🚲 En mis ratos libres, disfruto de la aventura y de arreglar retos técnicos (¡como mi bicicleta!).
 
-### 📚 Proyectos Destacados (En formación)
-* **Análisis de ROI y Retención (Walmart):** Optimización de presupuestos de marketing.
-* **Lead Scoring Model:** Predicción de conversión de clientes usando Regresión Logística.
-* **Análisis de Sentimiento:** Procesamiento de datos para entender la satisfacción del usuario.
+### 📚 Proyectos Destacados (En formación).
+• Análisis de comportamiento de usuarios y retención.
+• Análisis de datos aplicados a procesos logísticos.
+• Ejercicios prácticos de SQL y exploración de datos.
 
 ---
 📫 **¡Conectemos!** [LinkedIn](https://www.linkedin.com/in/daniel-cruz-analyst/)  
