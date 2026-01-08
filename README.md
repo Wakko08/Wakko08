@@ -4,8 +4,8 @@
 
 ### 🚀 Sobre mí
 - 🔍 Me apasiona encontrar patrones en los datos para mejorar procesos reales.
-- 🛠️ Actualmente dominando: **SQL, Python y Análisis Estadístico**.
-- 💡 Mi enfoque: Transformar números complejos en decisiones estratégicas claras.
+- 🛠️ experiencia práctica en Operaciones Logísticas
+- 💡 Mi enfoque: Usar datos para apoyar decisiones y mejoras en procesos reales.
 - 🚲 En mis ratos libres, disfruto de la aventura y de arreglar retos técnicos (¡como mi bicicleta!).
 
 ### 📚 Proyectos Destacados (En formación)
