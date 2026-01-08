@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! Soy Daniel Cruz 👋 📊
 
-<!--
-**Wakko08/Wakko08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi espacio de aprendizaje y crecimiento! Soy un profesional con sólida experiencia en **Operaciones Logísticas**, ahora evolucionando hacia el mundo del **Análisis de Datos** a través del bootcamp de **TripleTen**.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- 🔍 Me apasiona encontrar patrones en los datos para mejorar procesos reales.
+- 🛠️ Actualmente dominando: **SQL, Python y Análisis Estadístico**.
+- 💡 Mi enfoque: Transformar números complejos en decisiones estratégicas claras.
+- 🚲 En mis ratos libres, disfruto de la aventura y de arreglar retos técnicos (¡como mi bicicleta!).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Proyectos Destacados (En formación)
+* **Análisis de ROI y Retención (Walmart):** Optimización de presupuestos de marketing.
+* **Lead Scoring Model:** Predicción de conversión de clientes usando Regresión Logística.
+* **Análisis de Sentimiento:** Procesamiento de datos para entender la satisfacción del usuario.
+
+---
+📫 **¡Conectemos!** [LinkedIn](https://www.linkedin.com/in/daniel-cruz-analyst/)  
